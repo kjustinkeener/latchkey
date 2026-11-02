@@ -1,5 +1,7 @@
 # Latchkey
 
+<img src="images/latchkey.png" alt="Latchkey showing a blocking tree of five SQL Server sessions" width="560">
+
 A desktop toolkit for watching and troubleshooting SQL Server.
 
 - Live activity: CPU per core, waits, memory, file I/O latency and running requests
